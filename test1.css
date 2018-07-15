@@ -1,0 +1,24 @@
+body{
+    width:100%;
+    height:100%;
+    padding:15%;
+    background-image:url(image/zerotwo.jpg);
+    background-repeat: no-repeat;
+}
+#top{
+    width:100%;
+    height:20%;
+    border:solid 1px red;
+}
+#left{
+    height:80%;
+    width:30%;
+    margin:5% 5% 0 0;
+    border:solid 1px red;
+}
+#right{
+    height:80%;
+    width:70%;
+    margin:5% 0 0 5%;
+    border:solid 1px red;
+}
